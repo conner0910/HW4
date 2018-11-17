@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//change for github
 int main(int argc, char **argv){
   int N = atoi(argv[1]);
   int block = atoi(argv[2]);  
